@@ -4,6 +4,13 @@
 ## 更新日志
 
 <details>
+  <summary>2020.12.13 ~ masnmap</summary>
+  masscan + nmap 快速端口存活检测和服务识别。</br>
+  独立项目连接：https://github.com/starnightcyber/masnmap
+</details>
+
+
+<details>
   <summary>2020.4.19 ~ Nessus_to_report</summary>
   Nessus_to_report Nessus报告转中文，脚本更新至Python3</br>
   独立项目连接：https://github.com/starnightcyber/Nessus_to_report
